@@ -152,7 +152,8 @@ cap.release()
 ## i) Captured Frame
 
 <p align="center">
-  <img src="images/output1.jpg" alt="Captured Frame" width="500">
+  <img width="608" height="450" alt="image" src="https://github.com/user-attachments/assets/0d8fcb52-ccc6-4810-98c1-47f5663b9d80" />
+
 </p>
 
 ---
@@ -160,7 +161,8 @@ cap.release()
 ## ii) Live Video Display
 
 <p align="center">
-  <img src="images/output2.jpg" alt="Live Video" width="500">
+  <img width="603" height="455" alt="image" src="https://github.com/user-attachments/assets/2c214316-284f-43cb-a399-309f1759129b" />
+
 </p>
 
 ---
@@ -168,7 +170,8 @@ cap.release()
 ## iii) Resized Video Display
 
 <p align="center">
-  <img src="images/output3.jpg" alt="Resized Video" width="300">
+  <img width="303" height="455" alt="image" src="https://github.com/user-attachments/assets/00f1a872-2122-4e31-b0f4-43fbd54f4a8b" />
+
 </p>
 
 ---
@@ -176,7 +179,8 @@ cap.release()
 ## iv) Rotated Video Display
 
 <p align="center">
-  <img src="images/output4.jpg" alt="Rotated Video" width="300">
+  <img width="342" height="461" alt="image" src="https://github.com/user-attachments/assets/ab82b94e-d0d5-4440-a391-266f1af1e2b4" />
+
 </p>
 
 ---
